@@ -72,6 +72,14 @@ A comprehensive "Canvas" layout providing detailed statistics for each coin clas
 
 ![Step 5 Chart](group14_step5.png)
 
+#### Surface Comparison Analysis
+These charts compare the overall probability of Heads vs. Tails across the two surface types: **Wood** (Groups 1–8) and **Tiles** (Groups 9–15).
+
+*   **Cumulative Comparison**: Tracks the cumulative count of Heads for Wood vs. Tiles.
+    ![Surface Comparison Cumulative](surface_comparison_cumulative.png)
+*   **Bar Chart Comparison**: A direct comparison of the final Head probability percentages.
+    ![Surface Comparison Bar](surface_comparison_bar.png)
+
 ---
 
 ### Step 6: Canvas — Global Combined Summary
@@ -80,6 +88,8 @@ A comprehensive "Canvas" layout providing detailed statistics for each coin clas
 The final summary dashboard combining all data points. It features a cumulative trend line for the entire dataset and a precise summary table breaking down the probabilities by surface type.
 
 ![Step 6 Chart](group14_step6.png)
+
+
 
 ---
 
